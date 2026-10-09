@@ -138,6 +138,5 @@
 [sklearn]: https://scikit-learn.org/stable/
 
 <!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/aravind-selvam/
-[reach_gmail]: mailto:aravind9722@gmail.com?subject=Github
-[reach_outlook]: mailto:aravind_selvam@outlook.com
+[reach_linkedin]: https://www.linkedin.com/in/jagan-a-891082412/
+[reach_gmail]: mailto:ajagan1406@gmail.com?subject=Github
